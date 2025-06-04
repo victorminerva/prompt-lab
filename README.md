@@ -22,6 +22,5 @@ Este repositório contém uma coleção de prompts reutilizáveis, organizados p
 
 Você pode usar estes prompts para:
 - Criar user stories automáticas
-- Validar dados fiscais
 - Gerar explicações técnicas
 - Automatizar decisões
